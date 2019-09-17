@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>蝴蝶在飞的BLOG</title>
+  
+  <subtitle>自律 自省 自在 实践出真知</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://zhouhanbing.github.io/"/>
+  <updated>2019-09-16T11:34:07.695Z</updated>
+  <id>https://zhouhanbing.github.io/</id>
+  
+  <author>
+    <name>zhouhanbing</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello Test</title>
+    <link href="https://zhouhanbing.github.io/2019/08/26/hello-test/"/>
+    <id>https://zhouhanbing.github.io/2019/08/26/hello-test/</id>
+    <published>2019-08-26T11:06:01.668Z</published>
+    <updated>2019-09-16T11:34:07.695Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="分类目录" scheme="https://zhouhanbing.github.io/categories/%E5%88%86%E7%B1%BB%E7%9B%AE%E5%BD%95/"/>
+    
+    
+      <category term="Hello" scheme="https://zhouhanbing.github.io/tags/Hello/"/>
+    
+  </entry>
+  
+</feed>
